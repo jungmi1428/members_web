@@ -122,7 +122,7 @@ section nav.other a:nth-child(4){
 /* member1 */
 body.member1{background-color: #edfaff;}
 body.member1 section article.profile img{
-  box-shadow: 5px 15px 30px rgba(173, 216, 230, .8);
+  box-shadow: 5px 15px 30px rgba(255, 250, 159, .8);
 }
 
 body.member1 section a.btnView{
