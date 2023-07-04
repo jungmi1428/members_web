@@ -1,0 +1,43 @@
+/* member1 */
+body.member1{background-color: #edfaff;}
+body.member1 section article.profile img{
+  box-shadow: 5px 15px 30px rgba(173, 216, 230, .8);
+}
+
+body.member1 section a.btnView{
+  background: linear-gradient(45deg, #4affff, #35e0f7);
+  box-shadow: 5px 10px 20px rgba(0, 255, 255, .493);
+}
+
+/* member2 */
+body.member2{background-color: #edffed;}
+body.member2 section article.profile img{
+  box-shadow: 5px 15px 30px  #dbccb7;
+}
+
+body.member2 section a.btnView{
+  background: linear-gradient(45deg, #a0ff9d, #55f5b2);
+  box-shadow: 5px 10px 20px rgba(33, 250, 108, .3);
+}
+
+/* member3 */
+body.member3{background-color: #fff3fd;}
+body.member3 section article.profile img{
+  box-shadow: 5px 15px 30px  rgba(252,99,214,.2);
+}
+
+body.member3 section a.btnView{
+  background: linear-gradient(45deg, #ef74ff, #ff11ca);
+  box-shadow: 5px 10px 20px rgba(255, 17, 190, .357);
+}
+
+/* member4 */
+body.member4{background-color: #f5f0ff;}
+body.member4 section article.profile img{
+  box-shadow: 5px 15px 30px  rgba(183,82,250,.2);
+}
+
+body.member4 section a.btnView{
+  background: linear-gradient(45deg, #8e74ff, #a011ff);
+  box-shadow: 5px 10px 20px rgba(160, 17, 255, .4);
+}
